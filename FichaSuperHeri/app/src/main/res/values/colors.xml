@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_heroi">#BBDEFB</color>
+    <color name="bg_vilao">#FFCDD2</color>
+    <color name="bg_antiheroi">#E0E0E0</color>
+
+</resources>
